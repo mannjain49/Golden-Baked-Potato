@@ -1,0 +1,9 @@
+﻿Copyright (c) 2026 Mann
+You may:
+* Use this addon in personal worlds.
+* Share the original addon file with friends.
+You may not:
+* Reupload this addon claiming it as your own work.
+* Sell this addon.
+* Redistribute modified versions without permission.
+All rights reserved.
