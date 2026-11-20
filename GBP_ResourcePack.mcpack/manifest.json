@@ -1,0 +1,39 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Golden Baked Potato RP",
+    "description": "Resources for the Golden Baked Potato addon.",
+    "uuid": "691593ce-0618-4a05-b67d-f5f71e2ae561",
+    "version": [
+      1,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      50
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "ff91556b-e96d-4c32-88a3-cba8fc8863d7",
+      "version": [
+        1,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "8b7a190a-b38a-4ec0-8e8d-63b74c56ccd4",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

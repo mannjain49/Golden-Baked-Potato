@@ -1,0 +1,29 @@
+{
+  "format_version": "1.21.100",
+  "minecraft:item": {
+    "description": {
+      "identifier": "gbp:golden_baked_potato",
+      "menu_category": {
+        "category": "items"
+      }
+    },
+    "components": {
+      "minecraft:icon": "golden_baked_potato",
+      "minecraft:max_stack_size": 64,
+      "minecraft:use_animation": "eat",
+      "minecraft:use_modifiers": {
+        "use_duration": 1.6
+      },
+      "gbp:apply_regeneration_on_consume": {},
+      "minecraft:food": {
+        "nutrition": 6,
+        "saturation_modifier": 0.6,
+        "can_always_eat": false
+      },
+      "minecraft:cooldown": {
+        "category": "golden_baked_potato",
+        "duration": 1.0
+      }
+    }
+  }
+}

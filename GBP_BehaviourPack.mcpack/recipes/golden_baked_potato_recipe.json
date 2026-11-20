@@ -1,0 +1,36 @@
+{
+  "format_version": "1.20.100",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "gbp:golden_baked_potato_recipe"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "unlock": [
+      {
+        "context": "AlwaysUnlocked"
+      }
+    ],
+    "pattern": [
+      "NIN",
+      "IPI",
+      "NIN"
+    ],
+    "key": {
+      "N": {
+        "item": "minecraft:gold_nugget"
+      },
+      "I": {
+        "item": "minecraft:gold_ingot"
+      },
+      "P": {
+        "item": "minecraft:baked_potato"
+      }
+    },
+    "result": {
+      "item": "gbp:golden_baked_potato",
+      "count": 1
+    }
+  }
+}
